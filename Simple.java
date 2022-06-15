@@ -2,7 +2,7 @@ public class Simple {
 
 public static void main (String args []){
 
-System.out.println("Welcome to clouk knowledge")
+System.out.println("Welcome to clouk knowledge for devops")
 }
 
 }
